@@ -12,11 +12,8 @@ I love translating business logic into code. Finding the right Design Patterns a
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrBlueBird2&count_private=true&show_icons=true&theme=onedark" alt="Vladyslav's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBlueBird2&count_private=true&langs_count=3&theme=onedark" />
-</a>
 <br />
 <br />
-<p align="center">
+<p>
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedarkr" alt="MrBlueBird2" />
 </p>
