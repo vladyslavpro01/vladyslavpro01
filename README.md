@@ -1,6 +1,6 @@
 #### About Me:
 <p>
-I am a senior PHP/Java Developer with experience in architecture design and development with strong problem solving skills.
+I am a senior FullStack Developer with experience in architecture design and development with strong problem solving skills.
 I love translating business logic into code. Finding the right Design Patterns and discussing them with colleagues gives me satisfaction and ensures that we make each other better at our profession. I enjoy applying Domain Driven Design to convert complex business requirements into code.
 </p>
 
