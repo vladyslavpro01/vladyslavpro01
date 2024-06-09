@@ -1,18 +1,3 @@
-#### About Me:
-<p>
-I am a full stack developer with a demonstrated history of developing, Debugging, and Testing web-based and client-server multi-tier applications.
+🌟🌟Senior AI/ML Full Stack engineer with a demonstrated history of success in architecture design and software development.🌟🌟
 
-I love translating business logic into code. Finding the right Design Patterns and discussing them with colleagues gives me satisfaction and ensures that we make each other better at our profession. I enjoy applying Domain Driven Design to convert complex business requirements into code. I develop almost all my code Test Driven.
-
-I mainly see myself as a back-end developer, but through my work, as a web developer, I also have experience with front-end development.
-</p>
-
-#### Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrBlueBird2&count_private=true&show_icons=true&theme=onedark" alt="Vladyslav's github stats" />
-</a>
-<br />
-<br />
-<p>
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedarkr" alt="MrBlueBird2" />
-</p>
+Equipped with strong problem-solving skills, I specialize in crafting robust and scalable solutions that leverage cutting-edge AI/ML technologies. With a keen focus on enhancing user experiences, I excel in integrating ChatGPT AI to deliver intelligent conversational interfaces, driving engagement and efficiency. Versatile across both back-end and front-end realms, I thrive in collaborative environments, contributing effectively to multidisciplinary teams and delivering end-to-end solutions that meet and exceed expectations.
